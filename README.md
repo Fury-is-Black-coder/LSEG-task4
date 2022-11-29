@@ -1,5 +1,8 @@
 # LSEG-task4
 
+**To avoid errors, you need to add the path to the libraries from folder "libraries" in each project. 
+add "jsoup-1.15.3.jar" and "aspose.cells-22.101.jar" manualy**
+
 Project 4 work the same like Project 2; 
 1. We get file with storm data to PC. And Convert to XLS format. (data_without_formating.xls)
 2. We are operating in xls file by HSSFWorkbook and get or compare values from Cells.
